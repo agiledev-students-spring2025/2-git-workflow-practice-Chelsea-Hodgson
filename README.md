@@ -6,3 +6,6 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 I originally started studying CS because I wanted to work in healthcare, radiology specifically. Jack Virostko, Ph.D., directs the Dell Medial School's Diagnostic Radiolody Residency program posits that radiology is a field suited for Ai given it's "large, complex sets of digital data that require lots of analysis to get diagnostic information out of". I agree and could see a future where it's used for generating possible medical diagnoses which would then be validated by actual radiologists.
 
 The article mentions that the FDA authorized the use of almost 900 AI/ML medical devices, mostly in radiology, which radiologists can now use for more efficient analyzation of scans allowing faster care for patients which is key in rapidly developing diseases. ChatGPT 4.0 at the time scored over 90% on practice questions from the "American College of Radiology". However, it could be used for more than just looking at particular injuries and expanded to incidental findings and predicting medical issues as well. 
+
+# Propsosal
+I would love to try doing some diagnostic work on CT scans. It would have to be an ML client and we'd work with data from CT scans and common medical outcomes you'd see in them to determine whats most likely and output a list of likely diagnoses.
