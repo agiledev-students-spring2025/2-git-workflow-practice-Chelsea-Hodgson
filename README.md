@@ -9,3 +9,7 @@ The article mentions that the FDA authorized the use of almost 900 AI/ML medical
 
 # Propsosal
 I would love to try doing some diagnostic work on CT scans. It would have to be an ML client and we'd work with data from CT scans and common medical outcomes you'd see in them to determine whats most likely and output a list of likely diagnoses.
+
+
+# Isaac Tu's Edit
+I enjoyed reading the article, and I am inspired by your passion! I am very interested in AI and I believe that it will be the future more many fields such as radiology.
